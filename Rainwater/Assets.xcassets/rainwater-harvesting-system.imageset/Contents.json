@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "rainwater-harvesting-system-isometric-diagram-1201105579-34cb7b27492f42c387b89fd903a16ba4.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
